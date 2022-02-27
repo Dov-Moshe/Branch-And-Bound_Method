@@ -1,1 +1,1 @@
-# Branch-And-Bound_Method
+# Branch And Bound Method
