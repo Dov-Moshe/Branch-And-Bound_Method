@@ -1,0 +1,180 @@
+===========================================
+Branch and bound completed in 2068ms
+Strategy: Pseudocost Branching
+Searching: Depth First
+23 nodes visited 
+23 LP's solved
+num of candidate  11
+num of infeasible  2
+num of solution  1
+num of pruned  9
+===========================================
+Optimal solution
+x1 = 1.0
+x6 = 1.0
+x9 = 1.0
+Objective function value
+117.0
+===========================================
+
+
+===========================================
+Branch and bound completed in 1928ms
+Strategy: Most Fraction
+Searching: Depth First
+25 nodes visited 
+25 LP's solved
+num of candidate  12
+num of infeasible  3
+num of solution  2
+num of pruned  8
+===========================================
+Optimal solution
+x1 = 1.0
+x6 = 1.0
+x9 = 1.0
+Objective function value
+117.0
+===========================================
+
+
+===========================================
+Branch and bound completed in 1270ms
+Strategy: Fixed Branching
+Searching: Depth First
+19 nodes visited 
+19 LP's solved
+num of candidate  9
+num of infeasible  3
+num of solution  2
+num of pruned  5
+===========================================
+Optimal solution
+x1 = 1.0
+x6 = 1.0
+x9 = 1.0
+Objective function value
+117.0
+===========================================
+
+
+===========================================
+Branch and bound completed in 1529ms
+Strategy: Pseudocost Branching
+Searching: Best First
+37 nodes visited 
+25 LP's solved
+num of candidate  18
+num of infeasible  3
+num of solution  1
+num of pruned  3
+===========================================
+Optimal solution
+x1 = 1.0
+x6 = 1.0
+x9 = 1.0
+Objective function value
+117.0
+===========================================
+
+
+===========================================
+Branch and bound completed in 1546ms
+Strategy: Most Fraction
+Searching: Best First
+39 nodes visited 
+25 LP's solved
+num of candidate  19
+num of infeasible  3
+num of solution  2
+num of pruned  1
+===========================================
+Optimal solution
+x1 = 1.0
+x6 = 1.0
+x9 = 1.0
+Objective function value
+117.0
+===========================================
+
+
+===========================================
+Branch and bound completed in 1171ms
+Strategy: Fixed Branching
+Searching: Best First
+29 nodes visited 
+19 LP's solved
+num of candidate  14
+num of infeasible  3
+num of solution  2
+num of pruned  0
+===========================================
+Optimal solution
+x1 = 1.0
+x6 = 1.0
+x9 = 1.0
+Objective function value
+117.0
+===========================================
+
+
+===========================================
+Branch and bound completed in 1418ms
+Strategy: Pseudocost Branching
+Searching: Best Estimate
+31 nodes visited 
+23 LP's solved
+num of candidate  15
+num of infeasible  2
+num of solution  1
+num of pruned  5
+===========================================
+Optimal solution
+x1 = 1.0
+x6 = 1.0
+x9 = 1.0
+Objective function value
+117.0
+===========================================
+
+
+===========================================
+Branch and bound completed in 1522ms
+Strategy: Most Fraction
+Searching: Best Estimate
+35 nodes visited 
+25 LP's solved
+num of candidate  17
+num of infeasible  3
+num of solution  2
+num of pruned  3
+===========================================
+Optimal solution
+x1 = 1.0
+x6 = 1.0
+x9 = 1.0
+Objective function value
+117.0
+===========================================
+
+
+===========================================
+Branch and bound completed in 1242ms
+Strategy: Fixed Branching
+Searching: Best Estimate
+27 nodes visited 
+19 LP's solved
+num of candidate  13
+num of infeasible  3
+num of solution  2
+num of pruned  1
+===========================================
+Optimal solution
+x1 = 1.0
+x6 = 1.0
+x9 = 1.0
+Objective function value
+117.0
+===========================================
+
+
