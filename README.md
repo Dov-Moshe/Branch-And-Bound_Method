@@ -1,1 +1,1 @@
-# Branch-And-Bound_VS_Cutting-Planes
+# Branch And Bound Method
