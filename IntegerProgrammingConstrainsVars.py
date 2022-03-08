@@ -4,9 +4,27 @@ from src.BranchAndBound import GenerateRandomMIP, BranchAndBound
 branch_strategy_list = [PSEUDOCOST_BRANCHING, MOST_FRACTIONAL, FIXED_BRANCHING]
 search_strategy_list = [DEPTH_FIRST, BEST_FIRST, BEST_ESTIMATE]
 
+
+# 1.4.1
 CONSTRAINTS, VARIABLES, OBJ, MAT, RHS = GenerateRandomMIP(numVars = 30, numCons = 30, density = 0.2,
                                                           maxObjCoeff = 10, maxConsCoeff = 10,
                                                           rand_seed = 9)
+
+# 1.4.2
+#CONSTRAINTS, VARIABLES, OBJ, MAT, RHS = GenerateRandomMIP(numVars = 30, numCons = 30, density = 0.2,
+#                                                          maxObjCoeff = 10, maxConsCoeff = 10,
+#                                                          rand_seed = 4)
+
+# 1.4.3
+#CONSTRAINTS, VARIABLES, OBJ, MAT, RHS = GenerateRandomMIP(numVars = 30, numCons = 30, density = 0.2,
+#                                                          maxObjCoeff = 10, maxConsCoeff = 10,
+#                                                          rand_seed = 5)
+
+# 1.4.4
+#CONSTRAINTS, VARIABLES, OBJ, MAT, RHS = GenerateRandomMIP(numVars = 30, numCons = 30, density = 0.2,
+#                                                          maxObjCoeff = 10, maxConsCoeff = 10,
+#                                                          rand_seed = 6)
+
 for i in range(len(search_strategy_list)):
     for j in range(len(branch_strategy_list)):
         T = BBTree()
